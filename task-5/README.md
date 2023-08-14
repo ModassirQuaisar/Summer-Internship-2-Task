@@ -11,7 +11,7 @@ The BOX MODEL Web page is a simple BOX MODEL WITH MULTIBOX Web page made using p
 ## Screenshot 💻
 
 
-![screenshot](https://github.com/modassirquaisar/Summer-Internship-2/blob/main/task-5/Screenshot%202023-08-13%20185817.png)
+![screenshot](https://github.com/modassirquaisar/Summer-Internship-2/blob/main/task-5/Screenshot%202023-08-14%20152751.png)
 ## Contributing 😄
 
 If you want to contribute to this project, feel free to fork the repository and submit a pull request.
