@@ -6,13 +6,17 @@
   <title>Box model</title>
   <style>
     *{
-      background-color: #000;
+      background-color: powderblues;
       margin: 0px;
       padding: 0px;
       width: fit-content;
       height: fit-content;
     }
     .container{
+      margin:10px;
+      border: 5px solid red;
+    }
+    .multibox{
       margin: 40px;
       width: auto;
       display: flex;
@@ -38,7 +42,7 @@
       border: 5px solid yellowgreen;
       width: 20%;
       height: 300px;
-      background: rgb(16, 237, 163);
+      background: rgb(16, 237, 163);  
       margin: 20px;
       box-sizing: border-box;
       font-size: 50px;
@@ -79,13 +83,15 @@
   </style>
 </head>
 <body>
+  <div class="container">
   <div class="main">Hi I am Modasir Quaisar. I’m a Web Developer & Designer
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita natus ad sed harum itaque ullam enim quas, veniam accusantium, quia animi id eos adipisci iusto molestias asperiores explicabo cum vero atque amet corporis! Soluta illum facere consequuntur magni. Ullam dolorem repudiandae cumque voluptate consequatur consectetur, eos provident necessitatibus reiciendis corrupti!</div>
-  <div class="container">
+    <div class="multibox">
     <div class="box1">Modassir Quaisar</div>
     <div class="box2">Modassir Quaisar</div>
     <div class="box3">Modassir Quaisar</div>
     <div class="box4">Modassir Quaisar</div>
   </div>
+</div>
 </body>
 </html>
