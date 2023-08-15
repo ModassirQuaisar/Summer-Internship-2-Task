@@ -8,7 +8,7 @@
 <h1>💫 About Me:</h1>
 🔭 I’m currently working on Web Development & Python Programming <br>👯 I’m looking to collaborate on AI/ML projects<br>🤝 I’m looking for help with Dart<br>🌱 I’m currently learning Flutter<br>⚡ Fun fact I love Cat alot.
 <br>💬 Ask me about **html/Css, python.**<br>
-📫 How to reach me **modassirquaisar4@gmail.com**<br>
+📫 How to reach me modassirquaisar4@gmail.com<br>
 ⚡ Fun fact **I am funny**<hr>
 
 ## 🌐 Socials:
